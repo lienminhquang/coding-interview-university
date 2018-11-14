@@ -48,7 +48,7 @@ Thêm vào đó, nếu bạn muốn trở thành một kỹ sư hệ thống (Sy
 
 ## Mục lục
 
-- [Giới thiệu?](#giới-thiệu)
+- [x][Giới thiệu?](#giới-thiệu)
 - [Vì sao tôi cần tài liệu này?](#vì-sao-tôi-cần-tài-liệu-này)
 - [Sử dụng tài liệu này như thế nào?](#sử-dụng-tài-liệu-này-như-thế-nào)
 - [Đừng nghĩ rằng bạn không đủ thông minh](#đừng-nghĩ-rằng-bạn-không-đủ-thông-minh)
